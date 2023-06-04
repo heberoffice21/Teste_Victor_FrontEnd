@@ -1,0 +1,19 @@
+label {
+	display:block;
+	margin-bottom: 10px;
+}
+
+input {
+	width: 100px;
+
+}
+
+button {
+	margin-top: 10px;
+
+}
+
+#resultado {
+	margin-top: 10px;
+	font-weight: bold;
+}
